@@ -1,0 +1,28 @@
+{
+  "name": "checking",
+  "version": "1.0.0",
+  "description": "Checking domain names availability",
+  "main": "check.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javascipt/checking.git"
+  },
+  "keywords": [
+    "check",
+    "checking",
+    "available",
+    "availability",
+    "domain name",
+    "domainname",
+    "domain",
+    "name",
+    "lookup",
+    "whois"
+  ],
+  "author": "Khalid REHIOUI <Array.prototype@gmail.com> (http://github.com/javascipt)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javascipt/checking/issues"
+  },
+  "homepage": "https://github.com/Javascipt/checking#readme"
+}
