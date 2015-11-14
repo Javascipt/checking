@@ -1,5 +1,7 @@
 # checking
 
+![checking](https://travis-ci.org/Javascipt/checking.svg)
+
 This package allows you to check the availability of a domain name using the [whoisxmlapi](https://www.whoisxmlapi.com/) api.
 
 ### Installation 
